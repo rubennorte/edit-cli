@@ -1,0 +1,23 @@
+{
+  "name": "edit-cli",
+  "version": "0.0.0",
+  "description": "Open the default text editor",
+  "main": "index.js",
+  "bin": {
+    "edit": "./bin/edit.sh"
+  },
+  "keywords": [
+    "open",
+    "edit",
+    "editor",
+    "text",
+    "file",
+    "default",
+    "visual"
+  ],
+  "author": "Rubén Norte <rubennorte@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "bin"
+  ]
+}
